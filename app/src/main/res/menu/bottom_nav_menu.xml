@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Inicio"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:id="@+id/menu"/>
+    <item android:title="Mensajeria"
+        android:icon="@drawable/ic_baseline_message_24"
+        android:id="@+id/mensajeria"/>
+    <item android:title="Perfil"
+        android:icon="@drawable/ic_baseline_perm_identity_24"
+        android:id="@+id/perfil"/>
+</menu>
